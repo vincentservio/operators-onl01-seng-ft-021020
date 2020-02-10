@@ -5,6 +5,7 @@ if speed > 60 || speed < 40
   p true 
 else false 
 end
+end
 
 
 
