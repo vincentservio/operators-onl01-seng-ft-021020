@@ -13,4 +13,4 @@ end
 	
 
 
-speed < 70
+#speed < 70
