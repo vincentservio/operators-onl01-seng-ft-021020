@@ -1,7 +1,7 @@
-require "pry"
+
 
 def unsafe?(speed)
-binding.pry
+  speed < 70
 end
 
 
